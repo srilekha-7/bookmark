@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.blue-background {
+    background-color: #2d3a8c;
+}
+
+.paragraph {
+    color: white;
+    padding-left: 5px;
+}
+
+.name {
+    color: white;
+    font-size: 20px;
+}
+
+.bg-card {
+    background-color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.heading {
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.labels {
+    color: #7b8794;
+    font-size: 12px;
+}
+
+.button {
+    background-color: #21396c;
+    color: white;
+    margin-left: 200px;
+    border: 0px;
+}
+
+.error-msg {
+    color: red;
+    font-size: 12px;
+}
+
+.container-el {
+    background-color: #e4e7eb;
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.p-el {
+    color: #21396c;
+    text-align: center;
+    font-weight: bold;
+    padding: 11px;
+    margin-right: 30px;
+}
+
+.button-el {
+    background-color: blue;
+    border: 0px;
+    color: white;
+    border-radius: 5px;
+    margin-left: 30px;
+}
